@@ -24,7 +24,7 @@ Stepper rollerStepper(stepsPerRevolution, 8, 9, 10, 11);
 // set amount of time for exposure in seconds here:
 const int shutter_time = 5;
 // set open angle of shutter servo here:
-const int shutter_angle = 180;
+const int shutter_angle = 90;
 // set number of steps needed to eject the photo here:
 const int number_of_steps = 0;
 
